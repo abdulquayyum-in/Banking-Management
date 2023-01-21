@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Quayyum",
+    "phone": "+918712204003",
+    "aadhar": "217615563428",
+    "pancard": "25820",
+    "balance": 0,
+    "passcode": "1656",
+    "transaction": []
+  },
+  {
+    "name": "Quayyum",
+    "phone": "+919959530838",
+    "aadhar": "217615563428",
+    "pancard": "2580",
+    "balance": 0,
+    "passcode": "$2b$12$HHouIgxgbvsWo5Qm7bdXVOsNXN5juUG4gt1u50xhbjfTrSzUvrJCq",
+    "transaction": []
+  }
+]
